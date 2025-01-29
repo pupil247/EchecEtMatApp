@@ -4,6 +4,8 @@
 
 This Flutter app offers a comprehensive chess game experience, allowing users to control motors, LED boards, and start a game with multiple modes. The app integrates the Stockfish engine to generate AI moves, offering multiple difficulty levels to challenge players. It's designed to be used with a physical automatic chessboard or as a standalone game for both beginner and advanced players. It uses bluetooth to communicate with the physical ChessBoard
 
+<img src="IMG_2328.jpeg" width="250" />
+
 ## Features
 
 - **Direct Control of Motors & LED Board**: The app provides direct control to move chess pieces on the board using step motors and electromagnets, and interacts with a Neopixel LED board to visualize game elements.
